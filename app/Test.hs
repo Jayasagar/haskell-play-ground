@@ -25,7 +25,7 @@ squareRoot9 = sqrt(9)
 
 -- add function
 
-add x y = x + y
+add x y = x + y + 4
 
 
 -- Factorial
@@ -33,3 +33,7 @@ add x y = x + y
 fact 0 =1
 fact n = n * fact(n-1)
 
+x = 10
+
+
+y = 's'
